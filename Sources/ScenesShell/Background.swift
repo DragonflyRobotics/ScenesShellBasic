@@ -9,6 +9,7 @@ import Igis
 
 class Background : RenderableEntity {
     let imageURL = "https://codermerlin.academy/users/krishna-shah/images/usmap.svg"
+
     let usmap : Image
     init() {
         // Using a meaningful name can be helpful for debugging
